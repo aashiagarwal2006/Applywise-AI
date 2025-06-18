@@ -2,7 +2,7 @@ Applywise-AI 🎯
 A lightweight AI agent that scrapes real software engineering internships and rewrites resumes tailored to each role using GPT-3.5. Designed to help students apply smarter, faster.
 
 🚀 Demo
-▶️ Watch the 2-min demo
+https://youtu.be/76MRK-kFVCs
 
 🛠️ Tech Stack
 - Python
